@@ -61,7 +61,7 @@ var getNewImage1 = function(){
 //    } else {
 
     $(jsHero).removeClass('active2　active3　active4').addClass('active1').hide().fadeIn({
-        duration: 3000,
+        duration: 300,
         queue: false
     }); 
     
